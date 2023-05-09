@@ -1,0 +1,17 @@
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\variant_2.exe.config
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\variant_2.exe
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\variant_2.pdb
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\EntityFramework.dll
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\EntityFramework.xml
+C:\Users\Emil_\Desktop\variant_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.csproj.AssemblyReference.cache
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.Form1.resources
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.Properties.Resources.resources
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.View.StudentEditForm.resources
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.csproj.GenerateResource.cache
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.csproj.CoreCompileInputs.cache
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.csproj.CopyComplete
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.exe
+C:\Users\Emil_\Desktop\variant_2\obj\Debug\variant_2.pdb
